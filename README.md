@@ -7,7 +7,7 @@ Answer the following questions based on your understanding of software engineeri
 
 Questions:
 Define Software Engineering:
-
+software engineering is  
 What is software engineering, and how does it differ from traditional programming?
 Software Development Life Cycle (SDLC):
 
@@ -26,7 +26,7 @@ Testing in Software Engineering:
 Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
 Version Control Systems:
 
-What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
+what are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
 Software Project Management:
 
 Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
