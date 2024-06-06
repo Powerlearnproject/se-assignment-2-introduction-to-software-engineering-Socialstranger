@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/-ucQIGTc)
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15166507&assignment_repo_type=AssignmentRepo)
 # SE-Assignment-2
 Assignment: Introduction to Software Engineering
 Instructions:
@@ -5,7 +7,7 @@ Answer the following questions based on your understanding of software engineeri
 
 Questions:
 Define Software Engineering:
-
+software engineering is  
 What is software engineering, and how does it differ from traditional programming?
 Software Development Life Cycle (SDLC):
 
@@ -24,7 +26,7 @@ Testing in Software Engineering:
 Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
 Version Control Systems:
 
-What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
+what are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
 Software Project Management:
 
 Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
